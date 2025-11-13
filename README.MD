@@ -1,23 +1,17 @@
-# Netflix Account Checker
-## Easy Webdriver Account Checker
-### Have a Netflix Combo-List? Name it 'netflix' and check it out.
+🚀 NETFLIX-VALIDATOR – Netflix Email Checker 🚀
 
+Vérifie en un instant ⚡️ si un email ✉️ est enregistré sur Netflix avec une précision maximale 🎯 et une stabilité garantie 💪.
 
+🔹 Caractéristiques principales :
 
-Checks Netflix accounts using Selenium-Webdriver, without headless mode for now.
+🔍 Vérification immédiate des emails liés à Netflix
 
-Due to its slow speed, the checker has the ability to resume in case of a 403 error or other errors. Change your VPN and restart the program, and it will resume where it left off.
+⚡️ Ultra-rapide et 100% fiable
 
-The script was greatly simplified, as the previous options (such as the ability to choose how to split your combo-list) were not considered very useful.
+🎯 Détection précise et optimisée
 
-Built for Debian/Kali linux or other Linux distributions. Usable in Windows, but without the same Linux terminal capabilities. Enjoy.
+🖥️ Interface simple, moderne et intuitive
 
-Ingredients:
+🔄 Mises à jour automatiques et constantes
 
-BS4
-
-Chromedriver
-
-Selenium
-
-Your own combolist
+💎 Reste en contrôle, reste intelligent — valide chaque email Netflix comme un pro ! 💎
