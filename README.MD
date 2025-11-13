@@ -2,7 +2,7 @@
 ## Easy Webdriver Account Checker
 ### Have a Netflix Combo-List? Name it 'netflix' and check it out.
 
-![Alt text](assets/pic.png "Netflix Checker running on Kali")
+
 
 Checks Netflix accounts using Selenium-Webdriver, without headless mode for now.
 
